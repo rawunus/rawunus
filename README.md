@@ -26,13 +26,7 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-
-
-
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rawunus&show_icons=true&theme=gotham" alt="rawunus" />
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rawunus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawunus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
