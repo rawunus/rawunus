@@ -4,7 +4,9 @@
   <img align="left" alt="Bal Krishna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 <br />
+
 
 hi, i'm [Bal Krishna Sunuwar ](https://balkrishnasunuwar.com.np/), a passionate self-taught full stack web developer and a freelance from Portugal. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -13,6 +15,7 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 💼 any freelance work? do reach, [email](mailto:rawunus@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
 
 **languages and tools:**  
 
